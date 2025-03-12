@@ -1,0 +1,4 @@
+Created a config file to allow for the easy modification of variables and file directory names.
+
+Modified target-train-combined.py to use the variables from config file. Other programs within the local directory can also be modified to work with the config file, however I haven't 
+done so as they require linking to the parent directory where the config file is, which may be different depending on indvidual users' setups. 
