@@ -1,10 +1,8 @@
 # config.py
 
-# Other constants
 batch_size = 64
 num_clients = 5
 
-# Training parameters
 num_epochs = 3
 
 # Directory paths
